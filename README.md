@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ![My Image](home_page.png)
-![My Image](detail_page.jpg)
+![My Image](detail_page.png)
